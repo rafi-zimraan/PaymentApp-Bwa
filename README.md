@@ -2,8 +2,6 @@
 
 A new Flutter project.
 
-Deskripsi proyek Anda di sini.
-
 ## Gambar Proyek
 
 ![Gambar 1](https://github.com/rafi-zimraan/PaymentApp-Bwa/blob/master/assets/images/Payment-Img-1.jpg)
